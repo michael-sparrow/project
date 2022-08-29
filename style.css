@@ -1,0 +1,15 @@
+#topSection{
+    border-color: black;
+    border-style: none none solid none;
+    text-align: center;
+}
+
+#inputs{
+    text-align: center;
+}
+
+.inline{
+    display: inline-block;
+    margin: 40;
+    margin-top: 20;
+}
